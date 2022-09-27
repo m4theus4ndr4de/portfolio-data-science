@@ -1,30 +1,240 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Portfólio de Projetos • Matheus Andrade</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/svg" href="images/icon.svg" />
+	</head>
+	<body class="is-preload" style="width: 80% ; margin:0 auto"	>
 
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Portfólio de Projetos • Matheus Andrade</strong></a>
+									<ul class="icons">
+										<li><a href="mailto:matheus.andrade.lp@gmail.com" class="icon solid fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+										<li><a href="https://www.linkedin.com/in/matheus-andrade-ds/" class="icon brands fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+										<li><a href="https://github.com/m4theus4ndr4de" class="icon brands fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+									</ul>
+								</header>
 
-(* = not included)
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Olá, seja bem vindo (a) ao meu portfólio de<br />
+											projetos de Ciência de Dados.</h1>
+										</header>
+										<p>Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência dee Dados através de projetos com dados públicos.<br/>
+										Você vai encontrar também minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.<br/>
+										Sinta-se à vontade para entrar em contato por algum dos links no final da página.</p>
+									</div>
+									<span class="image object">
+										<img src="images/profile_picture.jpg" alt="Foto de Matheus Andrade" />
+									</span>
+								</section>
 
-AJ
-aj@lkn.io | @ajlkn
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h1>Sobre mim</h1>
+									</header>
 
+									<!-- Content -->
+										<p>Meu nome é Matheus Andrade. Sou formado em Engenharia Mecânica e sou mestre em Mecatrônica.</p>
+										<p>Atualmente atuo como pesquisador de temas relacionados a Indústria 4.0 e também como desenvolvedor de aplicações na área de automação industrial.</p>
+										<p>Estou desenvolvendo projetos pessoais sobre Ciência de Dados para adquirir experiência na solução de problemas de negócio e melhorar o meu domínio das ferramentas que um cientista de dados usa do dia-a-dia.</p>
+										<p>Busco uma oportunidade de trabalhar profissionalmente como Cientisdta de Dados para melhorar a tomada de decisão da empresa através da construção de soluções usando dados.</p>
+								</section>
 
-Credits:
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h1>Habilidades em Ciência de Dados</h1>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon solid fa-check"></span>
+											<div class="content">
+												<h3>Linguagens de Programação e Banco de Dados</h3>
+												<ul>
+													<li>Python com foco em análise de dados.</li>
+													<li>SQL para extração de dados.</li>
+												</ul>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-check"></span>
+											<div class="content">
+												<h3>Estatística e Machine Learning</h3>
+												<ul>
+													<li>Métricas de performance de algoritmos.</li>
+													<li>Bibliotecas de Machine Learning: Scikit Learn, Scipy, Pandas, Numpy</li>
+												</ul>
+										</article>
+										<article>
+											<span class="icon solid fa-check"></span>
+											<div class="content">
+												<h3>Visualização de Dados</h3>
+												<ul>
+													<li>Bibliotecas de Visualização de Dados: Matplotlib, Seaborn, Plotly</li>
+												</ul>
+										</article>
+										<article>
+											<span class="icon solid fa-check"></span>
+											<div class="content">
+												<h3>Engenharia de Software</h3>
+												<ul>
+													<li>Bibliotecas como Flask, Tkinter, OpenCV, Streamlit</li>
+													<li>Git, Github, Gitlab</li>
+													<li>Cloud Heroku</li>
+												</ul>
+										</article>
+									</div>
+								</section>
 
-	Demo Images:
-		Unsplash (unsplash.com)
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h1>Experiências Profissionais</h1>
+									</header>
 
-	Icons:
-		Font Awesome (fontawesome.io)
+									<!-- Content -->
+										<h2 id="content">Programação</h2>
+										<p>Tenho experiência com programação orientada a objetos, sistemas multiagentes, computação evolucionária, visão computacional, banco de dados e machine learning. Já trabalhei com Python, Matlab, SQL, C#, HTML, CSS, JavaScript.</p>
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+										<h2 id="content">Projetos Completos de Ciência de Dados</h2>
+										<p>Projeto de regressão para previsão de vendas de uma rede de farmácias</p>
+										<p>Projeto de visão Computacional para Medição de Coluna de Líquido em Tempo Real.</p>
+										<p>Projeto de insights no setor imobiliário para auxiliar o CEO a encontrar melhores casas para compra e venda.</p>
+										<p>Projeto de insights no setor imobiliário para auxiliar na observação e análise dos preços de casas.</p>
+
+										<h2 id="content">Pesquisador e Desenvolvedor de Aplicações</h2>
+										<p>1 ano de experiência desenvolvendo aplicações para a área da automação industrial.</p>
+								</section>
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h1>Formação</h1>
+									</header>
+
+									<!-- Content -->
+										<h2 id="content">Mestrado em Mecatrônica</h2>
+										<p>UFBA (Universidade Federal da Bahia), PPGM (Programa de Pós-Graduação em Mecatrônica)</p>
+										<p>Desenvolvimento de uma aplicação de visão computacional para dimensionamento de uma coluna de líquido e desenvolvimento de gêmeo digital voltado para a melhoria de desempenho utilizando machine learning, algoritmos genéticos e sistemas multiagentes como ferramenta no mestrado.</p>
+
+										<h2 id="content">Graduação em Engenharia Mecânica</h2>
+										<p>UNIFACS (Universidade Salvador)</p>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h1>Projetos em Ciência de Dados</h1>
+									</header>
+									<div class="posts">
+
+										<article>
+											<a href="#" class="image"><img src="images/sales.jpg" alt="Imagem representando o um gráfico de linha." /></a> <!-- Imagens de https://unsplash.com/ -->
+											<h3>Projeto de Regressão para Previsão de Vendas de uma Rede de Farmácias</h3>
+											<p>Projeto de previsão de vendas de todas as lojas de uma rede de farmácias da Europa para auxiliar o CEO na tomada de decisão de quanto investir na reforma de cada loja.</p>
+											<h4>Ferramentas Utilizadas:</h4>
+											<ul>
+												<li>Bibliotecas Python: Pandas, Seaborn, Boruta, Scikit Learn, Flask, Pickle.</li>
+												<li>BotFather, Telegram.</li>
+												<li>Heroku Cloud.</li>
+												<li>Git, Github.</li>
+												<li>Visual Studio Code.</li>
+											</ul>
+											<ul class="actions">
+												<li><a href="https://github.com/m4theus4ndr4de/regression-rossmann" target="_blank" class="button">Saiba Mais</a></li>
+											</ul>
+										</article>
+
+										<article>
+											<a href="#" class="image"><img src="images/cv.jpg" alt="Imagem do rosto de um robô para dar a ideia de visão computacional." /></a> <!-- Imagens de https://unsplash.com/ -->
+											<h3>Sistema de Visão Computacional para Medição de Coluna de Líquido em Tempo Real</h3>
+											<p>Sistema de visão computacional para medir a quantidade de óleo essencial produzida por destilação a vapor em tempo real para comunicação com software industriais supervisórios via Modbus TCP.</p>
+											<h4>Ferramentas Utilizadas:</h4>
+											<ul>
+												<li>Bibliotecas Python: OpenCV, Numpy, pyModbusTCP, picamera.</li>
+												<li>Git, Github.</li>
+												<li>Google Colab.</li>
+												<li>Raspberry Pi, Camera Module V2.</li>
+											</ul>
+											<ul class="actions">
+												<li><a href="https://github.com/m4theus4ndr4de/computer-vision-essential-oil-measurement" target="_blank" class="button">Saiba Mais</a></li>
+											</ul>
+										</article>
+
+										<article>
+											<a href="#" class="image"><img src="images/real_state_market.jpg" alt="Imagem representando o mercado imobiliário." /></a> <!-- Imagens de https://unsplash.com/ -->
+											<h3>Projeto Insights no Setor Imobiliário para Compra e Venda de Casas em Seattle</h3>
+											<p>Projeto de insights do setor imobiliário para auxiliar o CEO da empresa a decidir quais casas devem ser compradas a partir da criação de um dashboard e uma análise exploratória dos dados.</p>
+											<h4>Ferramentas Utilizadas:</h4>
+											<ul>
+												<li>Bibliotecas Python: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Geopandas, Streamlit, Folium.</li>
+												<li>Heroku Cloud</li>
+												<li>Git, Github.</li>
+												<li>Visual Studio Code.</li>
+											</ul>
+											<ul class="actions">
+												<li><a href="https://github.com/m4theus4ndr4de/insights-house-rocket" target="_blank" class="button">Saiba Mais</a></li>
+											</ul>
+										</article>
+
+										<article>
+											<a href="#" class="image"><img src="images/rent.jpg" alt="Imagem escrito aluguel em inglês." /></a> <!-- Imagens de https://unsplash.com/ -->
+											<h3>Projeto Insights no Setor Imobiliário para Aluguel de Casas em New York</h3>
+											<p>Projeto de insights do setor imobiliário, utilizando um dataset do Airbnb, em New York, para auxiliar o CEO da empresa a avaliar o comportamento dos preços dos imóveis disponíveis na cidade.</p>
+											<h4>Ferramentas Utilizadas:</h4>
+											<ul>
+												<li>Bibliotecas Python: Pandas, Plotly.</li>
+												<li>Git, Github.</li>
+												<li>Jupyter Notebook.</li>
+											</ul>
+											<ul class="actions">
+												<li><a href="https://github.com/m4theus4ndr4de/insights-airbnb-nyc" target="_blank" class="button">Saiba Mais</a></li>
+											</ul>
+										</article>
+									</div>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h1>Entre em contato:</h1>
+									</header>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="mailto:matheus.andrade.lp@gmail.com" target="_blank">matheus.andrade.lp@gmail.com</a></li>
+										<li class="icon brands fa-linkedin"><a href="https://www.linkedin.com/in/matheus-andrade-ds/" target="_blank">LinkedIn</a></li>
+										<li class="icon brands fa-github"><a href="https://github.com/m4theus4ndr4de" target="_blank">GitHub</a></li>
+									</ul>
+								</section>
+						</div>
+					</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
